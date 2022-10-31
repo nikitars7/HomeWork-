@@ -7,7 +7,7 @@ function filterRange(arr, a, b) {
 
 let filtered = filterRange(arr, 1, 4);
 
-console.log(filtered);  // вовзаращет новый массив
+console.log(filtered);  // возвращет новый массив
 console.log(arr);
 
 alert(filtered);
